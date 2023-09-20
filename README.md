@@ -1,6 +1,6 @@
 ###  Hello! We are Jonathan Burbano & Julio Gutierrez 🚀
 ### Full stack developers
-
+### https://miro.medium.com/v2/resize:fit:1100/format:webp/1*kt0RInms2_Kl6jsdCVUuCQ.jpeg
 ### About 
 - We are from Ecuador and Costa rica.
 - MERN Full Stack Developers.
