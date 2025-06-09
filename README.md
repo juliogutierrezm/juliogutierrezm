@@ -1,9 +1,11 @@
 # Julio Gutierrez Morales
 ## Full Stack Developer | MERN Stack Specialist
 
-![Static Badge](https://img.shields.io/badge/MERN%20FULL%20STACK-CODING%20DOJO-05A9E1) 
+![Static Badge](https://img.shields.io/badge/MERN%20FULL%20STACK-CODING%20DOJO-05A9E1)
 
 ![Static Badge](https://img.shields.io/badge/%20FULL%20STACK%20DIPLOMA%20-%20UNIVERSIDAD%20TECNOLOGICA-9A0057)
+
+![Static Badge](https://img.shields.io/badge/AWS%20CERTIFIED%20SOLUTIONS%20ARCHITECT--ASSOCIATE-orange)
 
 
 Welcome to my GitHub profile! I'm Julio Gutierrez Morales, a passionate Full Stack Developer with a strong foundation in web development technologies, including JavaScript, HTML, CSS, React, Node.js, and MongoDB. Here's a brief overview of my skills and experiences:
@@ -61,6 +63,10 @@ Welcome to my GitHub profile! I'm Julio Gutierrez Morales, a passionate Full Sta
 ### Tech University Diploma (2022)
 
 - Graduated from a comprehensive program covering JavaScript, web fundamentals, HTML, CSS, Bootstrap, and MERN stack fundamentals.
+
+## Certifications
+
+- AWS Certified Solutions Architect – Associate
 
 ## Contact
 
