@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm Julio Gutierrez Morales, a passionate Full Sta
 ### Dojo Music App (2023)
 
 - Collaborated on building a music application empowering emerging artists to share their music.
-- Utilized Tailwind CSS and React - Flowbite for enhanced user experiences.
+- Utilized Tailwind CSS and Flowbite React for enhanced user experiences.
 - Integrated authentication services in the backend for user registration.
 - Deployed the application on Amazon Web Services (EC2).
 
